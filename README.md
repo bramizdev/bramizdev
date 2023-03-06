@@ -1,8 +1,12 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! My name is Brayan.</h1>
 
-###Frontend developer (In the making...)
+### Frontend developer (In the making...)
 
-I'm a self-taught Frontend student with a passion for building accessible and user-friendly web applications. I strive to develop scalable and maintainable frontend solutions using the latest technologies and frameworks.* 🌍  I'm based in Guatemala* ✉️  You can contact me at [bramizdev@gmail.com](mailto:bramizdev@gmail.com)* 🧠  I'm learning Javascript
+I'm a self-taught Frontend student with a passion for building accessible and user-friendly web applications. I strive to develop scalable and maintainable frontend solutions using the latest technologies and frameworks.* 
+
+🌍  I'm based in Guatemala* <br>
+✉️  You can contact me at [bramizdev@gmail.com](mailto:bramizdev@gmail.com)* <br>
+🧠  I'm learning Javascript
 
 ### Skills
 
